@@ -5,15 +5,6 @@
 **3Dos Bot** is completely free to use.  
 No payments, no hidden fees — just download and start automating.
 
----
-
-## 📘 Guides
-
-> 🛠 **[Installation Guide](https://jammers-organization.gitbook.io/jambit/depin/3dos/installation)**  
-> 📖 **[User Guide – Getting Started](https://jammers-organization.gitbook.io/jambit/depin/3dos/user-guide-getting-started)**
-
-Detailed step-by-step instructions to help you install and use **Despeed Bot** effectively.
-
 
 
 ---
