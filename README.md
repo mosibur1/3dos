@@ -31,8 +31,4 @@ No payments, no hidden fees — just download and start automating.
 ---
 
 
-## 🆘 Need Help?
-
-💬 **Having trouble with installation or setup?**  
-Don’t worry — just join our [Telegram Chat](https://t.me/+-4HDHSdBgiYxNGRi) and we’ll gladly help you out!
 
